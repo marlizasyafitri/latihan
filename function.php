@@ -1,5 +1,4 @@
-<?php
-function recursion ($a = 10)
+
 {
 	if ($a < 20)
 	{
